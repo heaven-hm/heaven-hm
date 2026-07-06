@@ -11,7 +11,7 @@ I'm a game developer and reverse engineer focused on **Project I.G.I. (I'm Going
 ## 🎯 Current Projects
 - **[project-igi-editor](https://github.com/heaven-hm/project-igi-editor)**: The core 3D level navigation and editor application.
 - **[project-igi-converter](https://github.com/heaven-hm/project-igi-converter)**: Multi-format asset conversion engine and scripting editor.
-- **[project-igi-qvm-editor](https://github.com/heaven-hm/project-igi-qvm-editor)**: Legacy script manipulation toolkit (Archived in favor of
+- **[project-igi-qvm-editor](https://github.com/heaven-hm/project-igi-toolkit)**: The core 2D level navigation and editor application.
 
 ## Programming Languages & Core Tech
 <div class="container">
