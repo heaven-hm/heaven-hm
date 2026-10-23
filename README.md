@@ -1,6 +1,6 @@
 # Hey, I'm Heaven-HM 👋
 
-I'm a game developer and reverse engineer focused on **Project I.G.I. (I'm Going In)** modding, scripting, and engine tooling.
+I'm a game developer and **reverse engineer** focused on **Game** modding, scripting, and engine tooling.
 
 ## 👨‍💻 What I do
 - 🛠️ Developing the **Project I.G.I. 3D Editor** — a modern, fully-featured 3D viewport level editor.
