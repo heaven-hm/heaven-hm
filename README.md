@@ -1,18 +1,28 @@
 # Hey, I'm Heaven-HM 👋
 
-I'm a game developer and **reverse engineer** focused on **Game** modding, scripting, and engine tooling.
+I'm a game developer and **reverse engineer** focused on **game** modding, scripting, and engine tooling.
 
 ## 👨‍💻 What I do
-- 🛠️ Developing the **Project I.G.I. 3D Editor** — a modern, fully-featured 3D viewport level editor.
-- 📦 Building **project-igi-converter** — a C++ Qt toolchain to compile, decompile, and export game scripts (QVM/QSC) and levels.
-- 🔍 Reverse engineering I.G.I. file formats, task trees, schemas, and shaders.
-- 🔗 Collaborating with the community to preserve and modernize classic game assets.
+- 🛠️ Developing classic game modding tools, level editors, and reverse engineering frameworks.
+- 📦 Creating mods and tools for **Far Cry 1 & 2**, **Max Payne 1**, **Doom**, **COD MW**, and **Trackmania**.
+- 🔍 Reverse engineering legacy file formats, task trees, schemas, and shaders.
+- 🔗 Collaborating with modding communities to preserve and modernize classic game engines.
 
 ## 🎯 Current Projects
+- **Far Cry 1 & 2**: Mods and Tools
+- **Max Payne 1**: Mods and Tools
+- **Doom**: Mods and Tools
+- **COD MW (Call of Duty: Modern Warfare)**: Mods and Tools
+- **Trackmania**: Mods and Tools
+
+## 📁 Past Projects
 - **[Project IGI 3D Editor](https://github.com/heaven-hm/project-igi-editor)**: The core 3D level navigation and editor application.
 - **[Project IGI 2D Editor](https://github.com/heaven-hm/project-igi-toolkit)**: The core 2D level navigation and toolkit application.
 - **[Project IGI Asset Converter](https://github.com/heaven-hm/project-igi-converter)**: Game asset conversion engine and scripting editor.
 
+> [!IMPORTANT]
+> **Project I.G.I. Status**: There is **no more support for IGI** as I have completed my research and tools there.  
+> If you want more support or active development for Project I.G.I., please follow the **Neonix Modding Team**: [https://discord.gg/cnpvSNQ4C](https://discord.gg/cnpvSNQ4C).
 
 ## Programming Languages & Core Tech
 <div class="container">
