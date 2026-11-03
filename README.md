@@ -47,9 +47,9 @@ I'm a game developer and **reverse engineer** focused on **game** modding, scrip
 
 ## 📫 How to reach me
 - **🎮 Discord**: Message me at `heaven_hm` or join our [Discord Server](https://discord.com/invite/9SJucSsyt).
-- **📧 Email**: [igiproz.hm@gmail.com](mailto:igiproz.hm@gmail.com).
+- **📧 Email**: [HeavenHM](mailto:igiproz.hm@gmail.com).
 - **🌟 GitHub**: Follow the project on [GitHub](https://github.com/heaven-hm/).
-- **📺 YouTube**: Subscribe to [IGI Research Devs](https://www.youtube.com/@heaven-hm91) for guides and walkthroughs.
+- **📺 YouTube**: Subscribe to [HeavenHM](https://www.youtube.com/@heaven-hm91) for guides and walkthroughs.
 
 ## ⚡ Vision
 Preserving classic game engines, reverse engineering legacy assets, and building high-performance editor toolsets.
