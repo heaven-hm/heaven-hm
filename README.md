@@ -9,9 +9,10 @@ I'm a game developer and **reverse engineer** focused on **game** modding, scrip
 - 🔗 Collaborating with modding communities to preserve and modernize classic game engines.
 
 ## 🎯 Current Projects
-- [Far Cry 1 & 2 Recomp & Port to MacOs](https://github.com/heaven-hm/fci-recomp)
-- [Quake 3 MacOS and Mods](https://github.com/ioquake/ioq3)
-- [GameReComp - Recompile any port mod any PC game](https://github.com/heaven-hm/GameReComp)
+- [Far Cry Recomp MacOs](https://github.com/heaven-hm/fci-recomp)
+- [Quake 3 Mods & Tools](https://github.com/heaven-hm/quake3-qvm-editor)
+- [Halo CE Mods & Tools](https://github.com/OpenCommunityEdition/OpenCE)
+- [GameReComp - Recompile, Port & Mod](https://github.com/heaven-hm/GameReComp)
 - **COD MW (Call of Duty: Modern Warfare)**: Mods and Tools... Coming soon.
 - **Trackmania**: Mods and Tools... Coming soon.
 
